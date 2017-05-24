@@ -1,0 +1,17 @@
+{
+  "name": "cycle-graph",
+  "version": "1.0.0",
+  "description": "look for the cycles in the selected files with graphs descriptions",
+  "main": "script.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "jasmine-node tests"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jasmine-node": "^1.14.5"
+  }
+}
